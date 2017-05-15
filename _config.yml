@@ -6,7 +6,7 @@ email:
 description: ""
 keyword: ""
 url: "https://W-JD.github.io/"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/blogJD"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
